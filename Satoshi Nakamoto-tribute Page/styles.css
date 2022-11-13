@@ -1,0 +1,16 @@
+.naka{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color: gold;
+}
+
+.imgs{
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 40%;
+}
+body{
+    background-color: lightcoral;
+}
